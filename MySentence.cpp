@@ -1,11 +1,3 @@
-/******************************
-* Henry McGee
-* Project 1
-* Instructor: Professor Goddard
-* CPSC 2120
-* Due: 02/11/2018
-******************************/
-
 #include <iostream>
 #include <string>
 #include <cstring>
