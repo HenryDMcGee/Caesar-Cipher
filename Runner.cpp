@@ -1,10 +1,3 @@
-/******************************
-* Henry McGee
-* Lab2
-* Instructor: Professor Goddard
-* CPSC 2120
-* Due: 01/30/2018
-******************************/
 #include <iostream>
 #include <string>
 #include <fstream>
